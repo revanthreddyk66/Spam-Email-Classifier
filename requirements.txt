@@ -1,0 +1,6 @@
+
+This file lists the Python libraries that need to be installed for the project to run.
+
+pandas
+nltk
+scikit-learn
